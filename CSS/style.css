@@ -1,7 +1,12 @@
 h1 {
   color: red;
-  text-align: center;
+  text-align: left;
 }
 h2 {
   color: rgb(180, 180, 180);
+  text-decoration: underline;
+}
+
+p {
+  font-style: italic;
 }
