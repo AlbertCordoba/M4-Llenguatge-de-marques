@@ -11,11 +11,11 @@ p {
   font-style: italic;
 }
 
-.Franky, .Avi, .Boris, .Tony {
+span {
   color: red;
   font-style: italic;
 }
 
-il {
+li {
   list-style-type: upper-roman;
 }
